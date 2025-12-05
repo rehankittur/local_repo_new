@@ -1,1 +1,2 @@
-THis is new lesson
+THis is new lesson. 
+Thanks for the lesson
